@@ -1,7 +1,7 @@
 ---
 title: Workshop Planning # title of the episode
-teaching: 5 # time required to teach (minutes)
-exercises: 25 # time required for participants to do the activities (minutes)
+teaching: 15 # time required to teach (minutes)
+exercises: 30 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
 summary: An introduction to the suggested workshop structure and a chance to plan your workshop content.
@@ -25,10 +25,10 @@ order: 400000
 We suggest a three-part structure to your workshop which begins with some discussion and education, gives participants a toy example to work through, and then reserves a large block of time for them to apply what they've learned to their own workflows.
 We're trying to work _with_ people to _tweak_ rather than overhaul how they currently do things.
 
-At each stage, keep in mind both the immediate goal (e.g. participants should understand how to identify an appropriate preprint server) and the ultimate goal (participants should make sharing preprints part of their normal research workflow).
+At each stage, keep in mind both the immediate goal (e.g. participants should understand how and where to write a preregistration) and the ultimate goal (participants should make preregistration/Registered Reports part of their normal research workflow).
 
 To help plan out the workshop structure, you can use our <a href="{{ site.ukrn_or_template }}" target="_blank">workshop structure template</a>.
-When you're building the workshop you can use our <a href="{{ site.ukrn_or_demo }}" target="_blank">Preprints Workshop Demo</a> and edit the pages to say what you want them to.
+When you're building the workshop you can use our <a href="{{ site.ukrn_or_demo }}" target="_blank">Workshop Demo</a> and edit the pages to say what you want them to.
 
 ## Open Research Resource Browser
 
@@ -49,13 +49,13 @@ Contributions can be added and available instantly, so just ask us to add someth
 ## Over to you...
 
 > ## Plan your workshop `25 min`
-> Working alone or in a small group (especially if your research fields have similar preprint practices), sketch an outline of your workshop and the content you think your colleagues will need to know to preprint their own work.
+> Working alone or in a small group (especially if your research fields have similar preprint practices), sketch an outline of your workshop and the content you think your colleagues will need to know for their own work.
 >
 > What are the most important points or skills to cover in your workshop? (what sections/aspects will you focus more or less on)
 > What concepts do you think your attendees will be most unclear on or need the most guidance on?
 > How will you amend the template for your workshop? What is missing? What would you leave out?
-> What do you (the trainer) not know about preprints that you want to learn before you give a workshop?
-> What kinds of exercises (especially, interactive or hands-on activities) might help your attendees understand and learn to post preprints?
+> What do you (the trainer) not know that you want to learn before you give a workshop?
+> What kinds of exercises (especially, interactive or hands-on activities) might help your attendees understand and learn to apply what you teach them to their own work?
 >
 > Try to draft a plan of what you want to cover.
 > In a few minutes you'll have the opportunity to build your workshop, and it'll be easier to do if you've done some of the thinking first!

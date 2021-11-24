@@ -1,7 +1,7 @@
 ---
-title: Practicing your Workshop # title of the episode
+title: Delivering a Workshop # title of the episode
 teaching: 15 # time required to teach (minutes)
-exercises: 30 # time required for participants to do the activities (minutes)
+exercises: 15 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
 summary: Practice delivering a part of your workshop with your co-attendees.
@@ -14,19 +14,9 @@ is-break:  # whether this episode is a break (has different presentation)
 ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
 
 day: 1
-order: 800000
+order: 500000
 
 ---
 
 Louise will cover some tips on how to get the most out of your workshop when you're delivering the content.
-
-> ## In small groups `20 min`
-> * Take turns selecting a part of one of your lessons to present, ideally including an activity to oversee
-> * Present that component to the other members of the group
-{: .challenge}
-
-> ## Feedback `10 min`
-> * When you've all had a turn presenting, discuss what you liked about one another's presentations
->   * How could it be improved?
->   * How did it feel to present?
-{: .discussion}
+There will be a Q&A and discussion section afterwards.
