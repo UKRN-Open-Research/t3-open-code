@@ -1,6 +1,6 @@
 Open Research training aims to helps researchers produce practical changes to their everyday workflow to make their research more open, transparent, and robust.
-Posting your research as preprints is a quick and cheap way to publish open access, and allow you to get your work out there as soon as its ready.
-This Train-the-Trainer course will support researchers who are practiced in posting preprints in helping their colleagues to integrate preprinting into their existing workflow.
+Preregistering your research allows you to specify the research you plan to do in advance.
+This Train-the-Trainer course will support researchers who are practiced in writing preregistrations or Registered Reports in helping their colleagues to integrate these practices into their existing workflow.
 
 The key components of the UKRN Open Research Training ethos are:
 <details>
