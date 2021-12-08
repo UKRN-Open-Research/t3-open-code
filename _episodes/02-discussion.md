@@ -29,9 +29,10 @@ If other people have written something similar, you can add '+' to their entry, 
 > ## Breakout rooms `30 min`
 > Have a chat with others in your breakout room.
 >
-> 1. What benefits are there to registration?
-> 2. What potential concerns might people have?
-> 3. What skills and concepts will your colleagues need to acquire from your workshop?
+> - Briefly introduce yourselves to each other!
+> - What are the most important points or skills to cover in your workshop? What concepts do you think your attendees will be most unclear on or need the most guidance on?
+> - What do you (the trainer) not know about prereg/RRs that you want to learn before you give a workshop?
+> - How will you amend the template for your workshop? What is missing? What would you leave out or change?
 >
 {: .discussion}
 
