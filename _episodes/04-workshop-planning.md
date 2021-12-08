@@ -29,7 +29,7 @@ We're trying to work _with_ people to _tweak_ rather than overhaul how they curr
 
 At each stage, keep in mind both the immediate goal (e.g. participants should understand how and where to write a preregistration) and the ultimate goal (participants should make preregistration/Registered Reports part of their normal research workflow).
 
-### Workshop templates
+### Templates
 To help you plan out your workshop structure, you can use our worshop templates.
 - <a href="https://ukrn-orr.netlify.app/workshop-template_pr.html" target="_blank">Preregistration Workshop Template</a>
 - <a href="https://ukrn-orr.netlify.app/workshop-template_rr.html" target="_blank">Registered Reports Workshop Template</a>
