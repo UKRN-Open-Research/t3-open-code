@@ -52,12 +52,9 @@ Contributions can be added and available instantly, so just ask us to add someth
 > Working alone or in a small group (especially if your research fields have similar preprint practices), sketch an outline of your workshop and the content you think your colleagues will need to know for their own work.
 > 
 > **Think about..**
-> - What are the most important points or skills to cover in your workshop? (what sections/aspects will you focus more or less on)
-> - What concepts do you think your attendees will be most unclear on or need the most guidance on?
-> - How will you amend the template for your workshop? What is missing? What would you leave out?
+> - How will you amend the template for your workshop? What is missing? What would you leave out or change?
 > - What resources will you use to help you develop your workshop?
-> - What do you (the trainer) not know that you want to learn before you give a workshop?
-> - What kinds of exercises (especially, interactive or hands-on activities) might help your attendees understand and learn to apply what you teach them to their own work?
+> - What kinds of exercises (especially, interactive or hands-on activities) might help your attendees understand and learn to write preregistrations/RRs?
 >
 {: .checklist}
 
