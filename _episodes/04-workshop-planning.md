@@ -7,9 +7,8 @@ duration: # duration for a break, not needed if teaching/exercises are present (
 summary: An introduction to the suggested workshop structure and a chance to plan your workshop content.
 questions: # list of questions we are trying to answer
 objectives: # list of learning outcomes
- - Use the workshop structure template to plan your workshop content
+ - Use the resources available to help plan your workshop
 keypoints:  # list of take-home points
- - No homework for busy people
  - We're aiming for practical results!
 
 is-break:  # whether this episode is a break (has different presentation)
@@ -20,6 +19,9 @@ order: 400000
 
 ---
 
+## You don't have to reinvent the wheel
+Planning your own workshop isn't all about starting from scratch. We recommend using existing resources to help develop your workshop. In this session of the Train-the-Trainer course, think about the resources that are available already, the teaching skills you learned in the previous session, and how you can incorporate these into your workshop.
+
 ## Workshop structure
 
 We suggest a three-part structure to your workshop which begins with some discussion and education, gives participants a toy example to work through, and then reserves a large block of time for them to apply what they've learned to their own workflows.
@@ -27,8 +29,12 @@ We're trying to work _with_ people to _tweak_ rather than overhaul how they curr
 
 At each stage, keep in mind both the immediate goal (e.g. participants should understand how and where to write a preregistration) and the ultimate goal (participants should make preregistration/Registered Reports part of their normal research workflow).
 
-To help plan out the workshop structure, you can use our <a href="{{ site.ukrn_or_template }}" target="_blank">workshop structure template</a>.
-When you're building the workshop you can use our <a href="{{ site.ukrn_or_demo }}" target="_blank">Workshop Demo</a> and edit the pages to say what you want them to.
+### Workshop templates
+To help you plan out your workshop structure, you can use our worshop templates.
+- <a href="https://ukrn-orr.netlify.app/workshop-template_pr.html" target="_blank">Preregistration Workshop Template</a>
+- <a href="https://ukrn-orr.netlify.app/workshop-template_rr.html" target="_blank">Registered Reports Workshop Template</a>
+
+Later on in this course, when you're building your workshop, you can use our <a href="{{ site.ukrn_or_demo }}" target="_blank">Workshop Demo</a> and edit the pages to say what you want them to.
 
 ## Open Research Resource Browser
 
@@ -37,12 +43,6 @@ The Open Research Resource Browser is a tool that reads and filters a Google She
 
 You should find the Browser intuitive to use, but ask if you're not sure.
 
-> ## Can you...
-> 1. Find NASA's GeneLab
-> 2. Work out how many Humanities resources there are
-> 3. Find the data repositories which mention 'sequence' in their description
-{: .challenge}
-
 The spreadsheet the resources are taken from is <a href="{{ site.ukrn_or_resources }}" target="_blank">available to view</a> and we welcome suggestions for additional contributions.
 Contributions can be added and available instantly, so just ask us to add something if you need it.
 
@@ -50,16 +50,22 @@ Contributions can be added and available instantly, so just ask us to add someth
 
 > ## Plan your workshop `25 min`
 > Working alone or in a small group (especially if your research fields have similar preprint practices), sketch an outline of your workshop and the content you think your colleagues will need to know for their own work.
->
-> What are the most important points or skills to cover in your workshop? (what sections/aspects will you focus more or less on)
-> What concepts do you think your attendees will be most unclear on or need the most guidance on?
-> How will you amend the template for your workshop? What is missing? What would you leave out?
-> What do you (the trainer) not know that you want to learn before you give a workshop?
-> What kinds of exercises (especially, interactive or hands-on activities) might help your attendees understand and learn to apply what you teach them to their own work?
->
-> Try to draft a plan of what you want to cover.
-> In a few minutes you'll have the opportunity to build your workshop, and it'll be easier to do if you've done some of the thinking first!
+> 
+> **Think about..**
+> - What are the most important points or skills to cover in your workshop? (what sections/aspects will you focus more or less on)
+> - What concepts do you think your attendees will be most unclear on or need the most guidance on?
+> - How will you amend the template for your workshop? What is missing? What would you leave out?
+> - What resources will you use to help you develop your workshop?
+> - What do you (the trainer) not know that you want to learn before you give a workshop?
+> - What kinds of exercises (especially, interactive or hands-on activities) might help your attendees understand and learn to apply what you teach them to their own work?
 >
 {: .checklist}
 
 
+> ## Ask for help
+> Our instructors are here to help you. Ask them about:
+> - Where to find resources
+> - What exercises work best for what learning objectives
+> - Feedback on your workshop plan
+> - Best practices in preregistration or Registered Reports that you aren't sure about
+{: .objectives}
