@@ -35,7 +35,7 @@ repository: <USERNAME>/<PROJECT>
 carpentries_site: https://carpentries.org/
 pre_survey: https://docs.google.com/forms/d/e/1FAIpQLSclMwWvxNhudH1S05X1yf6iZ1kwA2HCNpCD0ERqRrpP9DpZJQ/viewform?usp=pp_url&entry.2087576176=
 post_survey: https://docs.google.com/forms/d/e/1FAIpQLSfsYAMhEorQDeHFfOOcSc4B03nZX0Y4UQCgIYSSA4Mq2uQcGQ/viewform?usp=pp_url&entry.579599320=
-code_of_conduct: https://cpb-eu-w2.wpmucdn.com/blogs.bristol.ac.uk/dist/b/631/files/2020/07/Code-of-Conduct-extracted-from-UKRN-ToR-v3.2.pdf
+code_of_conduct: https://www.ukrn.org/code-of-conduct/
 
 ukrn_or_template: https://ukrn-orr.netlify.app/workshop-template_pr.html
 ukrn_or_demo: https://emma-wilson.github.io/prereg-workshop-template/
