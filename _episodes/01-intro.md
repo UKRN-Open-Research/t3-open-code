@@ -21,7 +21,7 @@ order: 100000
 
 ## UKRN Open Research Training
 
-You're here to get involved in helping your colleagues with preregistration and/or Registered Reports.
+You're here to get involved in helping your colleagues to share their code and/or software.
 We can help you put together a workshop which will make it easier to achieve real changes in your colleagues' behaviour, and you can bring your specialist knowledge of the field and experience.
 
 > ## Approach
@@ -32,8 +32,7 @@ We can help you put together a workshop which will make it easier to achieve rea
 
 ### Course structure
 
-Today we'll start with discussions about the pros and cons of preregistration (what it helps with and what it doesn't), and think about what a workshop on preregistration might cover and how it will meet your colleagues' needs.
-Some of you will be looking to teach your colleagues about Registered Reports -- at some points they'll split off into their own groups, but generally everyone will be on a similar page.
+Today we'll start with discussions about the pros and cons of sharinng code (what are the benefits and challenges), and think about what a workshop on open code or software might cover and how it will meet your colleagues' needs.
 We'll be giving you some tips on how to deliver workshops, courtesy of our guest-presenter Louise from Bristol Institute of Teaching and Learning, and an introduction to our Workshop Builder Tool and our Resource List.
 At the end, there will be a large block of time for you to use the Workshop Builder Tool (or something else if you prefer) to build your own workshop to deliver to your colleagues.
 
@@ -43,11 +42,11 @@ At the end, there will be a large block of time for you to use the Workshop Buil
 > * Membership of an enthusiastic community of like-minded researchers in various disciplines
 {: .checklist}
 
-### Preregistration
+### Open Code and Software
 
-Preregistration is a bit different in practice between various fields - that's why we can't just produce a one-size-fits-all guide and be done with it!
+Different people have differen ideas about that sharing code means - that's why we can't just produce a one-size-fits-all guide and be done with it!
 
 > ## Activity `10 min`
-> Write a sentence or two in the **Introductions section** of the <a href="{{ site.collaborative_notes }}" target="_blank">collaborative editing document</a> that tells your fellow attendees a little bit about yourself, your field, and your background with preregistration/Registered Reports.
+> Write a sentence or two in the **Introductions section** of the <a href="{{ site.collaborative_notes }}" target="_blank">collaborative editing document</a> that tells your fellow attendees a little bit about yourself, your field, and your background with producing and sharing code and/or software.
 >
 {: .challenge}
