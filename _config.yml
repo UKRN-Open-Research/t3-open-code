@@ -2,7 +2,7 @@
 
 workshop_id: UOBPR20211209_01
 topic: train-the-trainer
-title: Train-the-Trainer - Preregistration/Registered Reports
+title: Train-the-Trainer - Open Code and Software
 instructors: [Matt Jaquiery, Jackie Thompson, Emma Wilson]
 instructor_emails:
   - matt.jaquiery@psy.ox.ac.uk
@@ -22,7 +22,7 @@ country:
 latitude:
 longitude:
 start_date:
-collaborative_notes: https://docs.google.com/document/d/1iWQswZZxJ21QrqZ_tCn2tUAbKs3OSsW9Y2HwqiWEAYY/edit
+collaborative_notes: https://docs.google.com/document/d/1iWQswZZxJ21QrqZ_tCn2tUAbKs3OSsW9Y2HwqiWEAYY/edit # NEED TO CHANGE
 eventbrite:
 # list of files in path _includes/intro/* .md files can be customised; .html files cannot be customised. Files with an initial _ are ignored.
 optional_intro_sections: []
@@ -33,12 +33,12 @@ ukrn_email: ORT@ukrn.org
 ukrn_site: https://ukrn.org/
 repository: <USERNAME>/<PROJECT>
 carpentries_site: https://carpentries.org/
-pre_survey: https://docs.google.com/forms/d/e/1FAIpQLSclMwWvxNhudH1S05X1yf6iZ1kwA2HCNpCD0ERqRrpP9DpZJQ/viewform?usp=pp_url&entry.2087576176=
-post_survey: https://docs.google.com/forms/d/e/1FAIpQLSfsYAMhEorQDeHFfOOcSc4B03nZX0Y4UQCgIYSSA4Mq2uQcGQ/viewform?usp=pp_url&entry.579599320=
+pre_survey: https://docs.google.com/forms/d/e/1FAIpQLSclMwWvxNhudH1S05X1yf6iZ1kwA2HCNpCD0ERqRrpP9DpZJQ/viewform?usp=pp_url&entry.2087576176= # NEED TO CHANGE
+post_survey: https://docs.google.com/forms/d/e/1FAIpQLSfsYAMhEorQDeHFfOOcSc4B03nZX0Y4UQCgIYSSA4Mq2uQcGQ/viewform?usp=pp_url&entry.579599320= # NEED TO CHANGE
 code_of_conduct: https://www.ukrn.org/code-of-conduct/
 
-ukrn_or_template: https://ukrn-orr.netlify.app/workshop-template_pr.html
-ukrn_or_demo: https://emma-wilson.github.io/prereg-workshop-template/
+ukrn_or_template: https://ukrn-orr.netlify.app/workshop-template_pr.html # NEED TO CHANGE
+ukrn_or_demo: https://emma-wilson.github.io/prereg-workshop-template/ # NEED TO CHANGE
 ukrn_or_builder: https://ukrn-wb.netlify.app/
 ukrn_or_browser: https://ukrn-orr.netlify.app/
 ukrn_or_resources: https://docs.google.com/spreadsheets/d/1cqsyS6RWQ38dU0Jc_ZyENZjRTFLj96AsiZVM4oxDWBA/edit?usp=sharing
