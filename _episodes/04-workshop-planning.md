@@ -22,19 +22,16 @@ order: 400000
 ## You don't have to reinvent the wheel
 Planning your own workshop isn't all about starting from scratch. We recommend using existing resources to help develop your workshop. In this session of the Train-the-Trainer course, think about the resources that are available already, the teaching skills you learned in the previous session, and how you can incorporate these into your workshop.
 
+### Templates
+To help you plan out your workshop structure, you can use our our <a href="{{ site.ukrn_or_demo }}" target="_blank">Workshop Demo</a> site. Later on in this course, when you're building your workshop, you can edit the pages to say what you want them to.
+
 ## Workshop structure
 
-We suggest a three-part structure to your workshop which begins with some discussion and education, gives participants a toy example to work through, and then reserves a large block of time for them to apply what they've learned to their own workflows.
+We suggest a three-part structure to your workshop which begins with some discussion, gives participants lessons on the topic (including toy examples), and then reserves a large block of time for them to apply what they've learned to their own workflows.
 We're trying to work _with_ people to _tweak_ rather than overhaul how they currently do things.
 
-At each stage, keep in mind both the immediate goal (e.g. participants should understand how and where to write a preregistration) and the ultimate goal (participants should make preregistration/Registered Reports part of their normal research workflow).
+At each stage, keep in mind both the immediate goal (e.g. participants should learn best practices in writing code) and the ultimate goal (participants should make sharing code part of their normal research workflow).
 
-### Templates
-To help you plan out your workshop structure, you can use our worshop templates.
-- <a href="https://ukrn-orr.netlify.app/workshop-template_pr.html" target="_blank">Preregistration Workshop Template</a>
-- <a href="https://ukrn-orr.netlify.app/workshop-template_rr.html" target="_blank">Registered Reports Workshop Template</a>
-
-Later on in this course, when you're building your workshop, you can use our <a href="{{ site.ukrn_or_demo }}" target="_blank">Workshop Demo</a> and edit the pages to say what you want them to.
 
 ## Open Research Resource Browser
 
@@ -49,12 +46,12 @@ Contributions can be added and available instantly, so just ask us to add someth
 ## Over to you...
 
 > ## Plan your workshop `25 min`
-> Working alone or in a small group (especially if your research fields have similar preprint practices), sketch an outline of your workshop and the content you think your colleagues will need to know for their own work.
+> Working alone or in a small group (especially if you're planning a workshop on a similar topic), sketch an outline of your workshop and the content you think your colleagues will need to know for their own work.
 > 
 > **Think about..**
-> - How will you amend the template for your workshop? What is missing? What would you leave out or change?
+> - Which aspects of the demo lessons would you use in your workshop? What is missing? What would you leave out or change?
 > - What resources will you use to help you develop your workshop?
-> - What kinds of exercises (especially, interactive or hands-on activities) might help your attendees understand and learn to write preregistrations/RRs?
+> - What kinds of exercises (especially, interactive or hands-on activities) might help your attendees understand and learn how to share their code?
 >
 {: .checklist}
 
@@ -64,5 +61,6 @@ Contributions can be added and available instantly, so just ask us to add someth
 > - Where to find resources
 > - What exercises work best for what learning objectives
 > - Feedback on your workshop plan
-> - Best practices in preregistration or Registered Reports that you aren't sure about
+> - Best practices that you aren't sure about
+> - General questions about open code and software
 {: .objectives}
