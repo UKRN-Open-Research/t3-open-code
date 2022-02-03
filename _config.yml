@@ -22,7 +22,7 @@ country:
 latitude:
 longitude:
 start_date:
-collaborative_notes: https://docs.google.com/document/d/1iWQswZZxJ21QrqZ_tCn2tUAbKs3OSsW9Y2HwqiWEAYY/edit # NEED TO CHANGE
+collaborative_notes: https://docs.google.com/document/d/1NqGLkMTAW-Qg0aFgeDfQLXJrEoW9gCTfYeTH1TJsqAU/edit?usp=sharing
 eventbrite:
 # list of files in path _includes/intro/* .md files can be customised; .html files cannot be customised. Files with an initial _ are ignored.
 optional_intro_sections: []
