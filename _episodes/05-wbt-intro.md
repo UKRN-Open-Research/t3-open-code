@@ -17,7 +17,7 @@ is-break:  # whether this episode is a break (has different presentation)
 ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
 
 day: 1
-order: 600000
+order: 500000
 
 ---
 
@@ -72,12 +72,12 @@ You can add and customise lessons created by other users of the Workshop Builder
 There are also template lessons if you want to build yours from scratch.
 Let's start by customising an introductory lesson.
 
-> ## Add Emma's preregistration-workshop-template Introduction to preregistration `15 min`
+> ## Add our demo lessons `15 min`
 > 1. Click 'Add Items to Stash'
-> 2. Enter 'emma' in the search box to narrow the results down
-> 3. Select the dropdown for 'preregistration-workshop-template' and wait while the results are fetched
+> 2. Enter 'UKRN-Open-Research' in the search box to narrow the results down
+> 3. Select the dropdown for 'open-code-workshop-template' and wait while the results are fetched
 > 4. Click 'Add items to stash' - you should now see a lot of lessons in the 'Stash'
-> 5. Find 'Introduction to preregistration' and drag it into the 'Day 1' slot
+> 5. Find 'Introduction to open code and software' and drag it into the 'Day 1' slot
 > 6. You'll see a green '+' icon appear in the lesson's icon bar - click it and you'll install the remote lesson into your workshop
 {: .challenge}
 
