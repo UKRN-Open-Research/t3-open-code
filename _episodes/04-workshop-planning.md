@@ -1,7 +1,7 @@
 ---
 title: Workshop Planning # title of the episode
-teaching: 15 # time required to teach (minutes)
-exercises: 30 # time required for participants to do the activities (minutes)
+teaching: 20 # time required to teach (minutes)
+exercises: 40 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
 summary: An introduction to the suggested workshop structure and a chance to plan your workshop content.
