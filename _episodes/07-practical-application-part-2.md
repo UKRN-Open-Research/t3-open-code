@@ -15,12 +15,12 @@ is-break:  # whether this episode is a break (has different presentation)
 ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
 
 day: 1
-order: 800000
+order: 700000
 
 ---
 
 > ## Resources
-> * <a href="{{ site.ukrn_or_template }}" target="_blank">Workshop Template</a>
+> * <a href="{{ site.ukrn_or_demo }}" target="_blank">Workshop Demo Site</a>
 > * <a href="{{ site.ukrn_or_builder }}" target="_blank">Workshop Builder Tool</a>
 > * <a href="{{ site.ukrn_or_browser }}" target="_blank">Open Research Resources Browser</a>
 {: .checklist}
@@ -40,4 +40,3 @@ order: 800000
 > Everyone else can ignore the chat/conversation and get on with creating a workshop while it's all going smoothly.
 {: .testimonial}
 
-We aim to be finished in 75 minutes so we can practice delivering some parts of the workshop before the end of the day.
