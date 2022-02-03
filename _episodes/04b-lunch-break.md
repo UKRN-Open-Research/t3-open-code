@@ -2,7 +2,7 @@
 title: Lunch Break # title of the episode
 teaching: # time required to teach (minutes)
 exercises: # time required for participants to do the activities (minutes)
-duration: 45 # duration for a break, not needed if teaching/exercises are present (minutes)
+duration: 60 # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
 summary:
 questions: # list of questions we are trying to answer
