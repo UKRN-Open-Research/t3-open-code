@@ -1,6 +1,6 @@
 ---
 
-workshop_id: UOBPR20211209_01
+workshop_id: UOBOCS20220210_01
 topic: train-the-trainer
 title: Train-the-Trainer - Open Code and Software
 instructors: [Matt Jaquiery, Jackie Thompson, Emma Wilson]
@@ -33,12 +33,12 @@ ukrn_email: ORT@ukrn.org
 ukrn_site: https://ukrn.org/
 repository: <USERNAME>/<PROJECT>
 carpentries_site: https://carpentries.org/
-pre_survey: https://docs.google.com/forms/d/e/1FAIpQLSclMwWvxNhudH1S05X1yf6iZ1kwA2HCNpCD0ERqRrpP9DpZJQ/viewform?usp=pp_url&entry.2087576176= # NEED TO CHANGE
-post_survey: https://docs.google.com/forms/d/e/1FAIpQLSfsYAMhEorQDeHFfOOcSc4B03nZX0Y4UQCgIYSSA4Mq2uQcGQ/viewform?usp=pp_url&entry.579599320= # NEED TO CHANGE
+pre_survey: https://docs.google.com/forms/d/e/1FAIpQLSecK5aUByRVJWVr4iGG8CxuO68lj9iRXhBips0mnz9SMjTF8A/viewform?usp=pp_url&entry.2087576176=
+post_survey: https://docs.google.com/forms/d/e/1FAIpQLScTpmrePKwyg5bnBwWF5gnDVth691bS1Gnhx0CwQBlsashwfw/viewform?usp=pp_url&entry.579599320=
 code_of_conduct: https://www.ukrn.org/code-of-conduct/
 
-ukrn_or_template: https://ukrn-orr.netlify.app/workshop-template_pr.html # NEED TO CHANGE
-ukrn_or_demo: https://emma-wilson.github.io/prereg-workshop-template/ # NEED TO CHANGE
+ukrn_or_template: 
+ukrn_or_demo: https://ukrn-open-research.github.io/open-code-workshop-template/
 ukrn_or_builder: https://ukrn-wb.netlify.app/
 ukrn_or_browser: https://ukrn-orr.netlify.app/
 ukrn_or_resources: https://docs.google.com/spreadsheets/d/1cqsyS6RWQ38dU0Jc_ZyENZjRTFLj96AsiZVM4oxDWBA/edit?usp=sharing
