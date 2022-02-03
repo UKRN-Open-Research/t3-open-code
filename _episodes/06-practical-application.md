@@ -1,7 +1,7 @@
 ---
 title: Workshop Building (Part 1) # title of the episode
 teaching:  # time required to teach (minutes)
-exercises: 75 # time required for participants to do the activities (minutes)
+exercises: 60 # time required for participants to do the activities (minutes)
 duration: # duration for a break, not needed if teaching/exercises are present (minutes)
 # summary of the episode content for displaying on the schedule page
 summary: Use the Workshop Builder Tool and Open Research Resources Browser to build your workshop.
